@@ -1,0 +1,10 @@
+{
+    "options": {
+        "reloadable": true
+    },
+    "author": "Yang#0966",
+    "disableAutoUpdate": false,
+    "name": "fix-our-impatience",
+    "description": "Description goes here.",
+    "servers": ["https://raw.githubusercontent.com/yangwarr/auto-accept/master/"]
+}

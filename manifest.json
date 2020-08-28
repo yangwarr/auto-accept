@@ -1,0 +1,11 @@
+{
+    "files": {
+        "index.js": "fef67b148fd62cf1b1774215ab59f2f9786a08aec2d1afac761e805513091eb0",
+        "module.json": "e9ed40521363ac40843520d957a3fe5ab79c3fb6740211d8df290e0cf8e52ee7"
+    },
+    "defs": {
+        "C_REPLY_THROUGH_ARBITER_CONTRACT": 1,
+        "C_REQUEST_CONTRACT": 1,
+        "S_BEGIN_THROUGH_ARBITER_CONTRACT": 1
+    }
+}
